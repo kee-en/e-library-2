@@ -17,6 +17,12 @@
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
+                            <label class="form-label">Middle Name</label>
+                            <input type="text" class="form-control" id="" placeholder="Middle Name">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
                             <label class="form-label">Last Name</label>
                             <input type="text" class="form-control" id="" placeholder="Last Name">
                         </div>
@@ -24,7 +30,7 @@
                     <div class="col-md-12">
                         <div class="form-group">
                             <label class="form-label">Email Address <span class="text-soft"><em class="icon ni ni-info"></em></span></label>
-                            <input type="text" class="form-control" id="" placeholder="Email Address">
+                            <input type="text" class="form-control" id="" placeholder="Email Address" disabled>
                         </div>
                     </div>
                     <div class="col-md-12">
@@ -42,6 +48,28 @@
                         <div class="form-group">
                             <label class="form-label">Birth Date</label>
                             <input type="date" class="form-control" id="">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="form-label">Course</label>
+                            <input type="text" class="form-control" id="" placeholder="Email Address" disabled>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="form-label">Year Level</label>
+                            <div class="form-control-select">
+                                <select class="form-control" id="default-06">
+                                    <option value="default_option">Choose options</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="form-label">Student ID No.</label>
+                            <input type="text" class="form-control" id="" placeholder="Student ID No.">
                         </div>
                     </div>
                 </div>

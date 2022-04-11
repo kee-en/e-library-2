@@ -16,3 +16,7 @@ thead, tbody, tfoot, tr, td, th {
 img.thumb.book-table {
     width: 60px;
 }
+
+.btn {
+    border-radius: 20px !important;
+}
