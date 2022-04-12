@@ -36,14 +36,14 @@
                                             <p>Anatomy of the Eye and Orbit is a clear and concise text that will suit the needs of students and residents and will also spark the interest of eye care professionals. This book is a collaboration of a team of eye care professionals and researchers. Written by experts in the field, the book targets a broad audience. It incorporates abundant clinical pearls and novel findings and discusses controversies that are emerging in the field.</p>
                                         </div>
                                         <div class="e-book-buttons mt-4 mb-3">
-                                            <ul class="d-flex flex-wrap ailgn-center g-2">
+                                            <ul class="d-flex flex-wrap align-center g-2">
                                                 <li class="">
                                                     <button class="btn btn-primary">Download Now</button>
                                                 </li>
                                                 <li>
                                                     <div class="dropdown">
                                                         <a href="#" class="btn btn-success" data-bs-toggle="dropdown" aria-expanded="false"><span>Share Social</span><em class="icon ni ni-chevron-down"></em></a>
-                                                        <div class="dropdown-menu dropdown-menu-end dropdown-menu-auto mt-1" style="">
+                                                        <div class="dropdown-menu dropdown-menu-end dropdown-menu-auto mt-1">
                                                             <ul class="link-list-plain">
                                                                 <li><a href="#">Facebook</a></li>
                                                                 <li><a href="#">Twitter</a></li>

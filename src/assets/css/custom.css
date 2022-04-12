@@ -21,6 +21,12 @@ img.thumb.book-table {
     border-radius: 20px !important;
 }
 
+.ebook-grid-item {
+    margin: 15px;
+}
+.ebook-grid-item > img {
+    width: 100%;
+}
 .ebook-div {
     position: relative;
     height: auto;
@@ -35,4 +41,21 @@ img.thumb.book-table {
 
 em.icon.ni.ni-forward-ios.text-mute.align-middle {
     color: #c4cdd9;
+}
+
+.grid-rating {
+    align-items: center;
+    margin: 0 -0.125rem;
+    color: #f4bd0e;
+    text-align: center;
+    display: inline-flex;
+}
+
+.grid-rating > * {
+    padding: 0 0.125rem;
+    display: inline-flex;
+}
+
+.flex-buttons {
+    display: inline-flex;
 }
