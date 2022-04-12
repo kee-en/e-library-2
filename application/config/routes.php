@@ -69,6 +69,7 @@ $route['admin-forgot-password'] = 'Admin/Forgot_password/index';
 
 //START STUDENT ROUTES
 // MAIN
+$route['view-e-book'] = 'Student/View_e_book/index';
 $route['student-account'] = 'Student/Account/index';
 $route['faqs'] = 'Student/Faqs/index';
 // AUTH
