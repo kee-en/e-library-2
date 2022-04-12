@@ -27,6 +27,11 @@ img.thumb.book-table {
 .ebook-grid-item > img {
     width: 100%;
 }
+
+.ebook-list-item > img {
+    width: 200px;
+}
+
 .ebook-div {
     position: relative;
     height: auto;
