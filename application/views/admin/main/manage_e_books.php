@@ -29,6 +29,119 @@
                     </div>
                 </div>
                 <div class="nk-block nk-block-lg">
+                    <div class="nk-fmg-quick-list nk-block mb-3">
+                        <div class="nk-block-head-xs">
+                            <div class="nk-block-between g-2">
+                                <div class="nk-block-head-content">
+                                    <h6 class="nk-block-title title">Quick View</h6>
+                                </div>
+                                <div class="nk-block-head-content">
+                                    <a href="#" class="link link-primary toggle-opt active" data-target="quick-access">
+                                        <div class="inactive-text">Show</div>
+                                        <div class="active-text">Hide</div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .nk-block-head -->
+                        <div class="toggle-expand-content expanded" data-content="quick-access">
+                            <div class="card card-bordered">
+                                <div class="card-inner">
+                                    <div class="row">
+                                        <div class="col-md-3 mb-3">
+                                            <strong class="text-primary">General Education</strong>
+                                            <ul class="list-unstyled" style="margin-left: 10px">
+                                                <li>General Education</li>
+                                                <li>Understanding The Self</li>
+                                                <li>Reading In Philippine History</li>
+                                                <li>Mathematics in Modern World</li>
+                                                <li>The Contemporary World</li>
+                                                <li>Purposive Communication</li>
+                                                <li>Art Appreciation</li>
+                                                <li>Science, technology, and Society</li>
+                                                <li>Ethics</li>
+                                                <li>Rizal's Life Works & Writings</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-3 mb-3">
+                                            <strong class="text-primary">Biological Science</strong>
+                                            <ul class="list-unstyled" style="margin-left: 10px">
+                                                <li>Biology</li>
+                                                <li>MicroBiology</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-3 mb-3">
+                                            <strong class="text-primary">Chemistry</strong>
+                                            <ul class="list-unstyled" style="margin-left: 10px">
+                                                <li>Chemistry (Organic)</li>
+                                                <li>Biochemistry</li>
+                                                <li>Physics</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-3 mb-3">
+                                            <strong class="text-primary">General Medical Science</strong>
+                                            <ul class="list-unstyled" style="margin-left: 10px">
+                                                <li>Human Anatomy And Physiology</li>
+                                                <li>Human Histology And Embryology</li>
+                                                <li>General Pathology</li>
+                                                <li>General Pharmacology</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-3 mb-3">
+                                            <strong class="text-primary">Ocular Medical Science</strong>
+                                            <ul class="list-unstyled" style="margin-left: 10px">
+                                                <li>Ocular Anatomy And Physiology</li>
+                                                <li>Neuro Biology Of The Visual System</li>
+                                                <li>Ocular Disease 1</li>
+                                                <li>Ocular Pharmacology With Therapeutics</li>
+                                                <li>Ocular Disease 2</li>
+                                                <li>Optometry Medicine</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-3 mb-3">
+                                            <strong class="text-primary">Vision Sciences</strong>
+                                            <ul class="list-unstyled" style="margin-left: 10px">
+                                                <li>Introduction To And History Of Optometry</li>
+                                                <li>Primary Eye And Vision Care</li>
+                                                <li>Theoretical And Geometric Optics</li>
+                                                <li>Physiological Optics</li>
+                                                <li>Opthalmic Optics</li>
+                                                <li>Applied Optics</li>
+                                                <li>Nutrition In Eye Care</li>
+                                                <li>Clinical Refraction</li>
+                                                <li>Binocular Vision And Perception</li>
+                                                <li>Clinical Optometry Practice</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-3 mb-3">
+                                            <strong class="text-primary">Specialty Fields</strong>
+                                            <ul class="list-unstyled" style="margin-left: 10px">
+                                                <li>Sports Vision</li>
+                                                <li>Pediatric Optometry</li>
+                                                <li>Geriatric Optometry</li>
+                                                <li>Low Vision</li>
+                                                <li>Public Health And Community Optometry</li>
+                                                <li>Contact Lens</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-3 mb-3">
+                                            <strong class="text-primary">Clinical Optometry</strong>
+                                            <ul class="list-unstyled" style="margin-left: 10px">
+                                                <li>Clinic</li>
+                                                <li>Clinical Low Vision</li>
+                                                <li>Clinical Neuro Optometry</li>
+                                                <li>Clinical Pediatric Optometry</li>
+                                                <li>Clinical Contact Lens</li>
+                                                <li>Vision Rehabilitation</li>
+                                                <li>Occupational Health Optometry And Safety</li>
+                                                <li>Ocular Prosthetics</li>
+                                                <li>Visual Analysis And Management</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="card card-bordered">
                         <div class="card-inner">
                             <table class="datatable-init table">
