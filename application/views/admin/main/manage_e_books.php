@@ -19,7 +19,7 @@
                                             <a href="#" class="btn btn-white btn-outline-light"><em class="icon ni ni-download-cloud"></em><span>Export</span></a>
                                         </li>
                                         <li>
-                                            <a href="javascript:void(0)" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#AddEbookModal"><em class="icon ni ni-plus"></em> Add E-book</a>
+                                            <a href="javascript:void(0)" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#AddEbookModal"><em class="icon ni ni-plus"></em><span>Add E-book</span></a>
                                         </li>
                                     </ul>
                                 </div>

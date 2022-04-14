@@ -153,6 +153,188 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        <div class="accordion-item">
+                                            <a href="#" class="accordion-head collapsed" data-bs-toggle="collapse" data-bs-target="#accordion-item-1-2">
+                                                Med Tech
+                                                <span class="accordion-icon"></span>
+                                            </a>
+                                            <div class="accordion-body collapse" id="accordion-item-1-2" data-bs-parent="#accordion-1">
+                                                <div class="accordion-inner">
+                                                    <fieldset>
+                                                        <div class="custom-control custom-checkbox custom-control-sm main-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input topic_parent" id="customCheck1">
+                                                            <label class="custom-control-label" for="customCheck1">General Education</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck2">
+                                                            <label class="custom-control-label" for="customCheck2">Understanding The Self</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck3">
+                                                            <label class="custom-control-label" for="customCheck3">Reading In Philippine History</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck4">
+                                                            <label class="custom-control-label" for="customCheck4">Mathematics in Modern World</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck5">
+                                                            <label class="custom-control-label" for="customCheck5">The Contemporary World</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck6">
+                                                            <label class="custom-control-label" for="customCheck6">Purposive Communication</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck7">
+                                                            <label class="custom-control-label" for="customCheck7">Art Appreciation</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Science, technology, and Society</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck9">
+                                                            <label class="custom-control-label" for="customCheck9">Ethics</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck10">
+                                                            <label class="custom-control-label" for="customCheck10">Rizal's Life Works & Writings</label>
+                                                        </div>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <div class="custom-control custom-checkbox custom-control-sm main-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input topic_parent" id="customCheck1">
+                                                            <label class="custom-control-label" for="customCheck1">Core Courses</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck2">
+                                                            <label class="custom-control-label" for="customCheck2">Inorganic And Organic Chemistry</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck3">
+                                                            <label class="custom-control-label" for="customCheck3">Analytical Chemistry</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck4">
+                                                            <label class="custom-control-label" for="customCheck4">Biochemistry For Med Lab Science</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck5">
+                                                            <label class="custom-control-label" for="customCheck5">Human Anatomy And Physiology With Pathophysiology</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck6">
+                                                            <label class="custom-control-label" for="customCheck6">Prin And Strategies Of Teaching In Med Lab Science</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck7">
+                                                            <label class="custom-control-label" for="customCheck7">Biostatistics And Epidemiology</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Health Information System For Med Lab Science</label>
+                                                        </div>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <div class="custom-control custom-checkbox custom-control-sm main-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input topic_parent" id="customCheck1">
+                                                            <label class="custom-control-label" for="customCheck1">Professional Courses</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck2">
+                                                            <label class="custom-control-label" for="customCheck2">Principles Of Medical Laboratory Science Practice 1</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck3">
+                                                            <label class="custom-control-label" for="customCheck3">Principles Of Medical Laboratory Science Practice 2</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck4">
+                                                            <label class="custom-control-label" for="customCheck4">Community And Public Health For Med Lab Science</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck5">
+                                                            <label class="custom-control-label" for="customCheck5">Human Histology</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck6">
+                                                            <label class="custom-control-label" for="customCheck6">Molecular Biology And Diagnostics</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck7">
+                                                            <label class="custom-control-label" for="customCheck7">Med Tech Laws And Bioethics</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Cynogenetics</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Clinical Chemistry 1</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Clinical Bacteriology</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Clinical Parasitology</label>
+                                                        </div>
+                                                    </fieldset>
+                                                    <fieldset>
+                                                        <div class="custom-control custom-checkbox custom-control-sm main-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input topic_parent" id="customCheck1">
+                                                            <label class="custom-control-label" for="customCheck1">Professional Courses</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck2">
+                                                            <label class="custom-control-label" for="customCheck2">Hematology 1</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck3">
+                                                            <label class="custom-control-label" for="customCheck3">Histopathologic And Cytologic Techniques</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck4">
+                                                            <label class="custom-control-label" for="customCheck4">Laboratory Management</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck5">
+                                                            <label class="custom-control-label" for="customCheck5">Clinical Chemistry 2</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck6">
+                                                            <label class="custom-control-label" for="customCheck6">Hematology 2</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck7">
+                                                            <label class="custom-control-label" for="customCheck7">Immunology And Serology</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Immunohematology</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Analysis Of Urine And Body Fluids</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Mycology And Virology</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Seminar 1</label>
+                                                        </div>
+                                                        <div class="custom-control custom-checkbox custom-control-sm sub-custom-checkbox">
+                                                            <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                                            <label class="custom-control-label" for="customCheck8">Seminar 2</label>
+                                                        </div>
+                                                    </fieldset>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

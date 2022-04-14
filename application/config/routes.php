@@ -60,6 +60,7 @@ $route['admin-account'] = 'Admin/Account/index';
 $route['manage-e-books'] = 'Admin/Manage_e_books/index';
 $route['users'] = 'Admin/Users/index';
 $route['students'] = 'Admin/Students/index';
+$route['admin-library'] = 'Admin/Admin_library/index';
 
 // AUTH
 $route['admin-login'] = 'Admin/Login/index';

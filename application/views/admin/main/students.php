@@ -19,7 +19,7 @@
                                             <a href="#" class="btn btn-white btn-outline-light"><em class="icon ni ni-download-cloud"></em><span>Export</span></a>
                                         </li>
                                         <li>
-                                            <a href="javascript:void(0)" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#AddStudentModal"><em class="icon ni ni-plus"></em> Add Student</a>
+                                            <a href="javascript:void(0)" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#AddStudentModal"><em class="icon ni ni-plus"></em><span>Add Student</span></a>
                                         </li>
                                     </ul>
                                 </div>

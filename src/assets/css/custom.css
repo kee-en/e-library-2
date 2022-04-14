@@ -64,3 +64,30 @@ em.icon.ni.ni-forward-ios.text-mute.align-middle {
 .flex-buttons {
     display: inline-flex;
 }
+
+.sub-custom-checkbox {
+    margin-left: 27px;
+}
+
+@media (min-width: 1200px) {
+.nk-fmg {
+    padding-left: 235px !important;
+}
+}
+
+@media (min-width: 1200px) {
+.nk-fmg-aside {
+    width: 237px;
+}
+}
+
+.search_ebook_btn {
+    border-radius: 0px !important;
+    border-top-right-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+}
+.search_ebook_input {
+    border-radius: 0px !important;
+    border-top-left-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+}

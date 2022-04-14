@@ -24,11 +24,11 @@
                                 </div>
                             </div>
                             <ul class="nk-menu nk-menu-main ui-s2">
-                                <li class="nk-menu-item">
+                                <!-- <li class="nk-menu-item">
                                     <a href="#" class="nk-menu-link ">
                                         <span class="nk-menu-text">Dashboard</span>
                                     </a>
-                                </li>
+                                </li> -->
                                 <li class="nk-menu-item">
                                     <a href="<?=base_url('users'); ?>" class="nk-menu-link ">
                                         <span class="nk-menu-text">Users</span>
@@ -45,7 +45,7 @@
                                     </a>
                                     <ul class="nk-menu-sub">
                                         <li class="nk-menu-item">
-                                            <a href="<?=base_url('library'); ?>" class="nk-menu-link">
+                                            <a href="<?=base_url('admin-library'); ?>" class="nk-menu-link">
                                                 <span class="nk-menu-text">View Library</span>
                                             </a>
                                         </li>
