@@ -33,12 +33,12 @@
                                                     </div>
                                                     <div class="data-col data-col-end"><span class="data-more"><em class="icon ni ni-forward-ios"></em></span></div>
                                                 </div>
-                                                <div class="data-item" data-bs-toggle="modal" data-bs-target="#EditAccountModal">
+                                                <div class="data-item">
                                                     <div class="data-col">
                                                         <span class="data-label">Email Address</span>
                                                         <span class="data-value">info@softnio.com</span>
                                                     </div>
-                                                    <div class="data-col data-col-end"><span class="data-more disable"><em class="icon ni ni-forward-ios"></em></span></div>
+                                                    <div class="data-col data-col-end"><span class="data-more disable"><em class="icon ni ni-lock-alt"></em></span></div>
                                                 </div>
                                                 <div class="data-item" data-bs-toggle="modal" data-bs-target="#EditAccountModal">
                                                     <div class="data-col">
@@ -54,23 +54,19 @@
                                                     </div>
                                                     <div class="data-col data-col-end"><span class="data-more"><em class="icon ni ni-forward-ios"></em></span></div>
                                                 </div>
-                                                <!-- <div class="data-item" data-bs-toggle="modal" data-bs-target="#profile-edit" data-tab-target="#address">
+                                                <div class="data-item" data-bs-toggle="modal" data-bs-target="#EditAccountModal">
                                                     <div class="data-col">
-                                                        <span class="data-label">Address</span>
-                                                        <span class="data-value">2337 Kildeer Drive,<br>Kentucky, Canada</span>
+                                                        <span class="data-label">Course</span>
+                                                        <span class="data-value">Optemetry</span>
                                                     </div>
                                                     <div class="data-col data-col-end"><span class="data-more"><em class="icon ni ni-forward-ios"></em></span></div>
-                                                </div> -->
-                                            </div>
-                                            <div class="nk-data data-list">
-                                                <div class="data-head">
-                                                    <h6 class="overline-title">Access Role</h6>
                                                 </div>
-                                                <div class="data-item" data-bs-toggle="modal" data-bs-target="#ChangeUserRoleModal">
+                                                <div class="data-item" data-bs-toggle="modal" data-bs-target="#EditAccountModal">
                                                     <div class="data-col">
-                                                        <span class="data-label">Administrator</span>
+                                                        <span class="data-label">Year Level</span>
+                                                        <span class="data-value">4th Year</span>
                                                     </div>
-                                                    <div class="data-col data-col-end"><span class="link link-primary">Change</span></div>
+                                                    <div class="data-col data-col-end"><span class="data-more"><em class="icon ni ni-forward-ios"></em></span></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -304,8 +300,8 @@
                                     </div>
                                     <div class="card-inner">
                                         <div class="user-account-info py-0">
-                                            <h6 class="overline-title-alt">User ID NO.:</h6>
-                                            <div class="user-balance">US-123904</div>
+                                            <h6 class="overline-title-alt">Student ID No.:</h6>
+                                            <div class="user-balance">ST-123904</div>
                                             <div class="user-balance-sub">Last Login: 3/02/22 10:00 AM</span></div>
                                         </div>
                                     </div>

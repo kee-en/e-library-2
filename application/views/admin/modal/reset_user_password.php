@@ -17,7 +17,7 @@
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <label class="form-label">New Password</label>
+                            <label class="form-label">Confirm New Password</label>
                             <input type="password" class="form-control" id="" placeholder="Confirm New Password">
                         </div>
                     </div>
@@ -25,7 +25,7 @@
             </div>
             <div class="modal-footer bg-light">
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save</button>
+                <button type="button" class="btn btn-primary">Save Changes</button>
             </div>
         </div>
     </div>

@@ -28,7 +28,7 @@
                                 <div class="col-md-12">
                                     <div class="form-group">
                                         <div class="form-label-group">
-                                            <label class="form-label" for="password">Passcode</label>
+                                            <label class="form-label" for="password">Password</label>
                                             <a class="link link-primary link-sm" tabindex="-1" href="<?= base_url('admin-forgot-password'); ?>">Forgot Password?</a>
                                         </div>
                                         <div class="form-control-wrap">
@@ -36,7 +36,7 @@
                                                 <em class="passcode-icon icon-show icon ni ni-eye"></em>
                                                 <em class="passcode-icon icon-hide icon ni ni-eye-off"></em>
                                             </a>
-                                            <input type="password" class="form-control form-control-lg" id="password" placeholder="Enter your passcode">
+                                            <input type="password" class="form-control form-control-lg" id="password" placeholder="Password">
                                         </div>
                                     </div>
                                 </div>

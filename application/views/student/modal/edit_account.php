@@ -1,8 +1,8 @@
-<div class="modal fade" id="EditStudentModal">
+<div class="modal fade" id="EditAccountModal">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title">Edit Student Information</h5>
+                <h5 class="modal-title">Edit Account Information</h5>
                 <a href="#" class="close" data-bs-dismiss="modal" aria-label="Close">
                     <em class="icon ni ni-cross"></em>
                 </a>
@@ -30,7 +30,7 @@
                     <div class="col-md-12">
                         <div class="form-group">
                             <label class="form-label">Email Address <span class="text-soft"><em class="icon ni ni-info"></em></span></label>
-                            <input type="text" class="form-control" id="" placeholder="Email Address">
+                            <input type="text" class="form-control" id="" placeholder="Email Address" disabled>
                         </div>
                     </div>
                     <div class="col-md-12">
@@ -53,11 +53,7 @@
                     <div class="col-md-12">
                         <div class="form-group">
                             <label class="form-label">Course</label>
-                            <div class="form-control-select">
-                                <select class="form-control" id="default-06">
-                                    <option value="default_option">Choose options</option>
-                                </select>
-                            </div>
+                            <input type="text" class="form-control" id="" placeholder="Email Address" disabled>
                         </div>
                     </div>
                     <div class="col-md-12">
@@ -68,6 +64,12 @@
                                     <option value="default_option">Choose options</option>
                                 </select>
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label class="form-label">Student ID No.</label>
+                            <input type="text" class="form-control" id="" placeholder="Student ID No.">
                         </div>
                     </div>
                 </div>

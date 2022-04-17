@@ -24,37 +24,15 @@
                                 </div>
                             </div>
                             <ul class="nk-menu nk-menu-main ui-s2">
-                                <!-- <li class="nk-menu-item">
-                                    <a href="#" class="nk-menu-link ">
-                                        <span class="nk-menu-text">Dashboard</span>
-                                    </a>
-                                </li> -->
                                 <li class="nk-menu-item">
-                                    <a href="<?=base_url('users'); ?>" class="nk-menu-link ">
-                                        <span class="nk-menu-text">Users</span>
+                                    <a href="<?=base_url('library'); ?>" class="nk-menu-link ">
+                                        <span class="nk-menu-text">Library</span>
                                     </a>
                                 </li>
                                 <li class="nk-menu-item">
-                                    <a href="<?=base_url('students'); ?>" class="nk-menu-link ">
-                                        <span class="nk-menu-text">Students</span>
+                                    <a href="<?=base_url('faqs'); ?>" class="nk-menu-link ">
+                                        <span class="nk-menu-text">FAQs</span>
                                     </a>
-                                </li>
-                                <li class="nk-menu-item has-sub">
-                                    <a href="#" class="nk-menu-link nk-menu-toggle">
-                                        <span class="nk-menu-text">E-Books</span>
-                                    </a>
-                                    <ul class="nk-menu-sub">
-                                        <li class="nk-menu-item">
-                                            <a href="<?=base_url('admin-library'); ?>" class="nk-menu-link">
-                                                <span class="nk-menu-text">View Library</span>
-                                            </a>
-                                        </li>
-                                        <li class="nk-menu-item">
-                                            <a href="<?=base_url('manage-e-books'); ?>" class="nk-menu-link">
-                                                <span class="nk-menu-text">Manage E-books</span>
-                                            </a>
-                                        </li>
-                                    </ul>
                                 </li>
                             </ul>
                         </div>
@@ -99,7 +77,7 @@
                                                 <em class="icon ni ni-user-alt"></em>
                                             </div>
                                             <div class="user-info d-none d-xl-block">
-                                                <div class="user-status">Administrator</div>
+                                                <div class="user-status">Student</div>
                                                 <div class="user-name dropdown-indicator">Federex Potolin</div>
                                             </div>
                                         </div>
@@ -120,13 +98,13 @@
                                             </div>
                                         </div>
                                         <div class="dropdown-inner user-account-info">
-                                            <h6 class="overline-title-alt">User ID No.:</h6>
-                                            <div class="user-balance">US-123904</div>
+                                            <h6 class="overline-title-alt">Student ID No.:</h6>
+                                            <div class="user-balance">ST-123904</div>
                                             <div class="user-balance-sub">Last Login: 3/02/22 10:00 AM</span></div>
                                         </div>
                                         <div class="dropdown-inner">
                                             <ul class="link-list">
-                                                <li><a href="<?=base_url('admin-account'); ?>"><em class="icon ni ni-user-alt"></em><span>View Account</span></a></li>
+                                                <li><a href="<?=base_url('student-account'); ?>"><em class="icon ni ni-user-alt"></em><span>View Account</span></a></li>
                                             </ul>
                                         </div>
                                         <div class="dropdown-inner">

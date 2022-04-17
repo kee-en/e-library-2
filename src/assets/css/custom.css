@@ -16,3 +16,78 @@ thead, tbody, tfoot, tr, td, th {
 img.thumb.book-table {
     width: 60px;
 }
+
+.btn {
+    border-radius: 20px !important;
+}
+
+.ebook-grid-item {
+    margin: 15px;
+}
+.ebook-grid-item > img {
+    width: 100%;
+}
+
+.ebook-list-item > img {
+    width: 200px;
+}
+
+.ebook-div {
+    position: relative;
+    height: auto;
+    margin: 0 0 30px 0;
+    border-radius: 4px;
+    border: 1px solid #e5e9f2;
+}
+
+.ebook-div > img {
+    width: 100%;
+}
+
+em.icon.ni.ni-forward-ios.text-mute.align-middle {
+    color: #c4cdd9;
+}
+
+.grid-rating {
+    align-items: center;
+    margin: 0 -0.125rem;
+    color: #f4bd0e;
+    text-align: center;
+    display: inline-flex;
+}
+
+.grid-rating > * {
+    padding: 0 0.125rem;
+    display: inline-flex;
+}
+
+.flex-buttons {
+    display: inline-flex;
+}
+
+.sub-custom-checkbox {
+    margin-left: 27px;
+}
+
+@media (min-width: 1200px) {
+.nk-fmg {
+    padding-left: 235px !important;
+}
+}
+
+@media (min-width: 1200px) {
+.nk-fmg-aside {
+    width: 237px;
+}
+}
+
+.search_ebook_btn {
+    border-radius: 0px !important;
+    border-top-right-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+}
+.search_ebook_input {
+    border-radius: 0px !important;
+    border-top-left-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+}
