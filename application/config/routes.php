@@ -78,3 +78,10 @@ $route['library'] = 'Student/Library/index';
 $route['student-login'] = 'Student/Login/index';
 $route['student-forgot-password'] = 'Student/Forgot_password/index';
 //END STUDENT ROUTES
+
+
+
+//TABLES
+
+//Institutions
+$route['get-institutions'] = 'Institutions/get_institutions';

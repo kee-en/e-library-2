@@ -47,6 +47,16 @@
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
+                            <label class="form-label">Institution</label>
+                            <div class="form-control-select">
+                                <select class="form-control" id="institutions" name="institutions" >
+                                    <!-- <option value="default_option">Choose options</option> -->
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
                             <label class="form-label">Course</label>
                             <div class="form-control-select">
                                 <select class="form-control" id="default-06">
@@ -126,3 +136,6 @@
         </div>
     </div>
 </div>
+
+<script src="<?=base_url(); ?>src/admin/modal/add-e-book.modal.js"></script>
+<script src="<?=base_url(); ?>src/javascript/institutions.js"></script>

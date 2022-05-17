@@ -17,4 +17,8 @@
     <link rel="stylesheet" href="<?=base_url(); ?>src/assets/css/dashlite.css?ver=3.0.0">
     <link id="skin-default" rel="stylesheet" href="<?=base_url(); ?>src/assets/css/theme.css?ver=3.0.0">
     <link rel="stylesheet" href="<?=base_url(); ?>src/assets/css/custom.css">
+
+    <script type="text/javascript">
+        var base_url = "<?= base_url(); ?>";
+    </script>
 </head>
