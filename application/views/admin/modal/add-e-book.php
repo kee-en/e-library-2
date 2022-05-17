@@ -50,7 +50,7 @@
                             <label class="form-label">Institution</label>
                             <div class="form-control-select">
                                 <select class="form-control" id="institutions" name="institutions" >
-                                    <!-- <option value="default_option">Choose options</option> -->
+                                    <option value="default_option">Choose options</option>
                                 </select>
                             </div>
                         </div>
