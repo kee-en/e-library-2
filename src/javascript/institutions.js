@@ -1,7 +1,7 @@
 "use strict";
 
 
-function getInstitutions(id, values = []) {
+function getInstitutions() {
     $.ajax({
         url: base_url + "get-institutions",
         type: 'POST',
