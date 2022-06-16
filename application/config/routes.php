@@ -78,3 +78,14 @@ $route['library'] = 'Student/Library/index';
 $route['student-login'] = 'Student/Login/index';
 $route['student-forgot-password'] = 'Student/Forgot_password/index';
 //END STUDENT ROUTES
+
+
+
+//TABLES
+
+//Institutions
+$route['get-institutions'] = 'Institutions/get_institutions';
+$route['get-courses-based-on-institution'] = 'Courses/get_courses_based_on_institution';
+$route['get-categories-based-on-course'] = 'Categories/get_categories_based_on_course';
+$route['get-subjects-based-on-category'] = 'Subjects/get_subjects_based_on_category';
+$route['post-ebook'] = 'Add_ebook/post_ebook';
